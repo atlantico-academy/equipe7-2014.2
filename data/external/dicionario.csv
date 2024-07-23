@@ -1,0 +1,12 @@
+variavel,descrição,tipo,subtipo
+Size,Tamanho da fruta em cm,Quantitativa,Contínua
+Weight,Peso da fruta em g,Quantitativa,Contínua
+Brix,Nível de doçura,Quantitativa,Contínua
+pH,Nível de acidez em pH,Quantitativa,Contínua
+Softness,Maciez de 1-5,Qualitativa,Ordinal
+HarvestTime,Dias desde a colheita,Quantitativa,discreta
+Ripeness,Maduração de 1-5,Qualitativa,Ordinal
+Color,Cor da laranja,Qualitativa,Nominal
+Variety,Variedade da laranja,Qualitativa,Nominal
+Blemishes,Defeito,Qualitativa,Nominal
+Quality,Qualidade da laranja de 1-5,Qualitativa,Ordinal
