@@ -3,10 +3,11 @@
 Insira aqui um resumo do projeto que será construído. Tente apresentar uma justificativa para o projeto. É desejável que também se insira um [graphical abstract](https://www.elsevier.com/authors/tools-and-resources/visual-abstract).
 
 ## Desenvolvedores
- - [Juliana](url-do-github-do-desenvolvedor-#1)
- - [Nome do desenvolvedor #2](url-do-github-do-desenvolvedor-#2)
- - [Nome do desenvolvedor #3](url-do-github-do-desenvolvedor-#3)
- - [Luís Fernando de Sá Amorim #4](https://github.com/MoonCancerBR)
+ - [Lívia Nobre #1](https://github.com/LiviaNobre)
+ - [Anna Neto #2](https://github.com/annaneto)
+ - [Juliana Reis #3](https://github.com/JuSReis)
+ - [Nome do desenvolvedor #4](url-do-github-do-desenvolvedor-#3)
+ - [Luís Fernando de Sá Amorim #5](https://github.com/MoonCancerBR)
  - ...
 
 ---
