@@ -1,6 +1,14 @@
-# < DATA7 >
+# Análise do Dataset de Qualidade de Laranjas
+## Resumo
 
-Insira aqui um resumo do projeto que será construído. Tente apresentar uma justificativa para o projeto. É desejável que também se insira um [graphical abstract](https://www.elsevier.com/authors/tools-and-resources/visual-abstract).
+A avaliação precisa da qualidade das laranjas é crucial para garantir a satisfação dos consumidores e otimizar o processo de distribuição. Métodos tradicionais de avaliação são subjetivos e podem variar entre avaliadores. 
+Este projeto busca desenvolver um modelo baseado em um [conjunto de dados](https://www.kaggle.com/datasets/shruthiiiee/orange-quality), aumentar a consistência e a objetividade na classificação da qualidade das laranjas, contribuindo para melhores práticas agrícolas e comerciais utilizando técnicas de Ciências de Dados.
+
+<!--É desejável que também se insira um [graphical abstract](https://www.elsevier.com/authors/tools-and-resources/visual-abstract).-->
+
+## Gráfico Abstrato
+
+
 
 ## Desenvolvedores
  - [Lívia Nobre #1](https://github.com/LiviaNobre)
