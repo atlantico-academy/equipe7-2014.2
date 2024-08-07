@@ -20,7 +20,7 @@ Este projeto busca desenvolver um modelo baseado em um [conjunto de dados](https
 
 ---
 
-> **Nota**: todo o texto abaixo é somente para entendimento do usuário do template. Por favor remova-o quando for atualizar este `README.md`.
+
 
 ## Funcionalidades
 
