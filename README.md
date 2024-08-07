@@ -1,4 +1,5 @@
 # Análise do Dataset de Qualidade de Laranjas
+
 ## Resumo
 
 A avaliação precisa da qualidade das laranjas é crucial para garantir a satisfação dos consumidores e otimizar o processo de distribuição. Métodos tradicionais de avaliação são subjetivos e podem variar entre avaliadores. 
