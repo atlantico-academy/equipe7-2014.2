@@ -3,10 +3,10 @@ Size (cm),Tamanho da fruta em cm,Quantitativa,Contínua
 Weight (g),Peso da fruta em g,Quantitativa,Contínua
 Brix (Sweetness),Nível de doçura,Quantitativa,Contínua
 pH (Acidity),Nível de acidez em pH,Quantitativa,Contínua
-Softness (1-5),Maciez de 1-5,Qualitativa,Ordinal
+Softness (1-5),Maciez de 1-5,Quantitativa,Discreta
 HarvestTime (days),Dias desde a colheita,Quantitativa,Discreta
-Ripeness (1-5),Maduração de 1-5,Qualitativa,Ordinal
+Ripeness (1-5),Maduração de 1-5,Quantitativa,Discreta
 Color,Cor da laranja,Qualitativa,Nominal
 Variety,Variedade da laranja,Qualitativa,Nominal
 Blemishes (Y/N),Defeito,Qualitativa,Nominal
-Quality (1-5),Qualidade da laranja de 1-5,Qualitativa,Ordinal
+Quality (1-5),Qualidade da laranja de 1-5,Quantitativa,Discreta
