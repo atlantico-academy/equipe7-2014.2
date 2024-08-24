@@ -18,7 +18,7 @@ Este projeto busca desenvolver um modelo baseado em um [conjunto de dados](https
  - [Gabriela Dias #4](https://github.com/Dias04404)
  - [Luís Fernando de Sá Amorim #5](https://github.com/MoonCancerBR)
 
-
+<!--
 ## Funcionalidades
 
 Esse template foi inicialmente baseado no [template de ciência de dados do cookiecutter](https://drivendata.github.io/cookiecutter-data-science/), mas ao longo do tempo várias modificações foram sendo realizadas. Atualmente o template tem as seguintes características:
@@ -63,3 +63,4 @@ Para utilizar este template, você precisará de um ambiente com os seguintes so
 └── tasks.py           # Arquivo com funções para criação de tarefas utilizadas pelo invoke
 
 ```
+-->
