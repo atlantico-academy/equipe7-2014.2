@@ -9,7 +9,7 @@ Este projeto busca desenvolver um modelo baseado em um [conjunto de dados](https
 
 ## Gráfico Abstrato
 
-
+![Minha Imagem](docs/assets/Imagem.jpg)
 
 ## Desenvolvedores
  - [Lívia Nobre #1](https://github.com/LiviaNobre)
